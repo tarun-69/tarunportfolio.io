@@ -1,0 +1,22 @@
+/* public/styles.css */
+
+/* Add your custom styles here */
+
+/* LinkedIn Link Styles */
+.linkedin-link {
+    color: #000000; /* LinkedIn blue color */
+}
+
+.linkedin-link:hover {
+    color: #0ba300; /* Darker blue color on hover */
+}
+
+/* GitHub Link Styles */
+.github-link {
+    color: #eaeaea; /* GitHub black color */
+}
+
+.github-link:hover {
+    color: #475360; /* Darker blue color on hover */
+}
+
